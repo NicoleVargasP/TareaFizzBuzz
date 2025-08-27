@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "56ffa0077a2f731c39492a0f14c2cefeaf5785c7",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-27T23:00:33.000Z",
       "message": "Deberia devolver cualquier multiplo de 3 como Fizz",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/56ffa0077a2f731c39492a0f14c2cefeaf5785c7"
     },
     "stats": {
       "total": 5,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-27T23:09:57.000Z",
+      "message": "Deberia delvolver 5 como Buzz",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

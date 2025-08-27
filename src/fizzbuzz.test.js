@@ -8,13 +8,16 @@ describe("Convertir a FizzBuzz", () => {
     expect(convertirFizzBuzz(4)).toEqual("4");
   });
    it("Deberia devolver cualquier numero enviado en cadena", () => {
-    expect(convertirFizzBuzz(5)).toEqual("5");
+    expect(convertirFizzBuzz(1)).toEqual("1");
   });
    it("Deberia devolver el numero 3 como Fizz", () => {
     expect(convertirFizzBuzz(3)).toEqual("Fizz");
   });
    it("Deberia devolver cualquier multiplo de 3 como Fizz", () => {
     expect(convertirFizzBuzz(6)).toEqual("Fizz");
+  });
+  it("Deberia devolver el numero 5 como Buzz", () => {
+    expect(convertirFizzBuzz(5)).toEqual("Buzz");
   });
   
 });
