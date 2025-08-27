@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "ea5b8e04ed3ec85a984a71c4ae1bd7847083893a",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-27T23:14:25.000Z",
       "message": "Convertir cualquier multiplo d 5 a Buzz",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/ea5b8e04ed3ec85a984a71c4ae1bd7847083893a"
     },
     "stats": {
       "total": 5,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-27T23:21:39.000Z",
+      "message": "Deberia convertir cualquier multiplo de 3 y 5 a FizzBuzz",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }
