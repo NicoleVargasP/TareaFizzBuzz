@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-27T22:46:50.000Z",
+      "message": "feat: Devolver cualquier numero",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 14,
+      "deletions": 15,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
