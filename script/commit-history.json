@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "1d1208e857872898574b4a9e14f56925dd269f83",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-27T22:46:50.000Z",
       "message": "feat: Devolver cualquier numero",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/1d1208e857872898574b4a9e14f56925dd269f83"
     },
     "stats": {
       "total": 29,
@@ -15,6 +15,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-27T22:58:01.000Z",
+      "message": "Deberia devolver el numero 3 como Fizz",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 17,
+      "deletions": 2,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

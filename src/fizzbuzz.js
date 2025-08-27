@@ -1,4 +1,9 @@
 function convertirFizzBuzz(n) {
-  return "1";
+    if (n == 3){
+        return "Fizz"
+    }
+    else {
+        return n + "";
+    }
 }
 export {convertirFizzBuzz};
