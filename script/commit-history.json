@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "3383cdf0a61efa15489a5d1ef082177e1bbca944",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-27T23:09:57.000Z",
       "message": "Deberia delvolver 5 como Buzz",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/3383cdf0a61efa15489a5d1ef082177e1bbca944"
     },
     "stats": {
       "total": 8,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-27T23:14:25.000Z",
+      "message": "Convertir cualquier multiplo d 5 a Buzz",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 4,
+      "deletions": 1,
+      "date": "2025-08-27"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
