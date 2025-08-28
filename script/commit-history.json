@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e9190e4db85033fe1277bca9fa6ceea1ff937dfd",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-27T23:21:39.000Z",
       "message": "Deberia convertir cualquier multiplo de 3 y 5 a FizzBuzz",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/e9190e4db85033fe1277bca9fa6ceea1ff937dfd"
     },
     "stats": {
       "total": 8,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-28T03:45:01.000Z",
+      "message": "fix: Ultima correccion de errores",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 18,
+      "deletions": 3,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

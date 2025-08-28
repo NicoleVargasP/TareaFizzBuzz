@@ -12,4 +12,14 @@ function convertirFizzBuzz(n) {
         return n + "";
     }
 }
-export {convertirFizzBuzz};
+function fizzbuzz(n){ 
+    let cadena = "" 
+    for (let i = 1; i <= n; i++) {
+        cadena += convertirFizzBuzz(i); 
+        if (i != n) {
+            cadena += ", "
+        }    
+    }
+    return cadena; 
+}
+export {convertirFizzBuzz, fizzbuzz};
