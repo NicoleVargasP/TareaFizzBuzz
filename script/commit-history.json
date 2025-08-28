@@ -114,17 +114,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "22f70773fb32e8838047133bd8111beaca5a7613",
     "author": "Nicole Vargas",
     "commit": {
       "date": "2025-08-28T03:45:01.000Z",
       "message": "fix: Ultima correccion de errores",
-      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/22f70773fb32e8838047133bd8111beaca5a7613"
     },
     "stats": {
       "total": 21,
       "additions": 18,
       "deletions": 3,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Nicole Vargas",
+    "commit": {
+      "date": "2025-08-28T04:06:50.000Z",
+      "message": "refactor: Agregando detalles al index",
+      "url": "https://github.com/NicoleVargasP/TareaFizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 24,
+      "additions": 10,
+      "deletions": 14,
       "date": "2025-08-28"
     },
     "coverage": 100,
